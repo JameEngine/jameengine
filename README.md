@@ -1,4 +1,4 @@
-### Hi there 👋
+### Jame Engine it's a "my dream 3D game engine", in Python it's a full game engine in Python.
 
 <!--
 **JameEngine/jameengine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
